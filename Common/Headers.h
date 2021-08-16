@@ -9,3 +9,4 @@ using namespace std;
 
 
 #include "Struct.h"
+#include "Define.h"
